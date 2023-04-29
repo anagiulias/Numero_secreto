@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+:root {
+    --font-family: 'Montserrat', sans-serif;
+    --bg-color: #E4D0D0;
+    --primary-color: #867070;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    font-family: var(--font-family);
+}
+
+h1 {
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 4em;
+}
+
+h3 {
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.mensagem {
+    font-size: 1.5em;
+    margin-top: 40px;
+}
+
+.box {
+    border: 2px solid var(--primary-color);
+    display: inline-block;
+    font-size: 4em;
+    padding: 10px;
+    margin: 20px;
+}
+
+.btn-jogar {
+    padding: 8px 15px;
+    border: 0;
+    background: var(--primary-color);
+    color: #F0F0F0;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.btn-jogar:hover {
+    background: #F0F0F0;
+    color: var(--primary-color);
+    cursor: pointer;
+}
+
+.btn-jogar2 {
+    padding: 8px 15px;
+    border: 0;
+    background: #FD8A8A;
+    color: black;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.btn-jogar2:hover {
+    background: rgb(184, 7, 7);
+    color: #F0F0F0;
+    cursor: pointer;
+}
+
+.GameOver {
+    color: #FFD966;
+}
+
+.GameOver2 {
+    color: #FFF;
+}
