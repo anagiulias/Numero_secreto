@@ -14,15 +14,16 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
 # ▷ Descrição do Projeto
-Projeto desenvolvido para criação de uma landing page, usando das tecnologias HTML e CSS. O Bot Sete, é uma representação visual e ilustrativa de um bot.
+O projeto é um jogo desenvolvido usando das tecnologias HTML, CSS e a linguagem de programação JavaScript. Durante o jogo, os usuários tem que tentar adivinhar o número que foi sorteado, por meio do comando de voz e se orientando com base nas dicas mostrada na tela.
 
 # ▷ Acesso ao Projeto
 Você pode acessar o projeto, por meio do link:
-https://anagiulias.github.io/Bot-Sete--Landing-Page/
+
 
 # ▷ Tecnologias utilizadas
 * HTML
 * CSS
+* JavaScript
 
 # ▷ Pessoas Desenvolvedoras do Projeto 
 | [<img src="https://avatars.githubusercontent.com/u/115855530?v=4" width=115><br><sub>Ana Giulia Santos</sub>](https://github.com/anagiulias)
