@@ -16,6 +16,6 @@ Você pode acessar o projeto, por meio do link:
 * CSS
 * JavaScript
 
-# ▷ Pessoas Desenvolvedoras do Projeto 
+# ✘ Pessoas Desenvolvedoras do Projeto 
 | [<img src="https://avatars.githubusercontent.com/u/115855530?v=4" width=115><br><sub>Ana Giulia Santos</sub>](https://github.com/anagiulias)
 | :---: |
