@@ -1,26 +1,15 @@
-# <h1 align="center"> Numero Secreto </h1>
-# Jogo
+# <h1 align="center"> ⚇ Numero Secreto ⚇ </h1>
 
-![GitHub Org's stars](https://img.shields.io/github/stars/anagiulias?style=social)
 ![Badge Finalizado](https://img.shields.io/badge/STATUS-CONCLUÍDO-<BRIGHTGREEN)
 
-# ▷ índice
-* [Título e Subtítulo](#Título-e-Subtítulo)
-* [Badges](#badges)
-* [índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-
-# ▷ Descrição do Projeto
+# ✘ Descrição do Projeto
 O projeto é um jogo desenvolvido usando das tecnologias HTML, CSS e a linguagem de programação JavaScript. Durante o jogo, os usuários tem que tentar adivinhar o número que foi sorteado, por meio do comando de voz e se orientando com base nas dicas mostrada na tela.
 
-# ▷ Acesso ao Projeto
+# ✘ Acesso ao Projeto
 Você pode acessar o projeto, por meio do link:
 
 
-# ▷ Tecnologias utilizadas
+# ✘ Tecnologias utilizadas
 * HTML
 * CSS
 * JavaScript
