@@ -1,3 +1,5 @@
+![nome](https://github.com/anagiulias/Tier_List_Times_GI-V1.1/assets/115855530/24fa2164-afad-41ce-abbc-62f14fb15048)
+
 # <h1 align="center"> ⚇ Numero Secreto ⚇ </h1>
 
 ![Badge Finalizado](https://img.shields.io/badge/STATUS-CONCLUÍDO-<BRIGHTGREEN)
@@ -12,7 +14,7 @@ O projeto é um jogo desenvolvido usando das tecnologias HTML, CSS e a linguagem
 Você pode acessar o projeto, por meio do link:<br>
 https://anagiulias.github.io/Numero_secreto/
 
-<b>Observação:</b> É necessário ativar o microfone do navegador.
+**Note: É necessário ativar o microfone do navegador.**
 
 # ✘ Tecnologias utilizadas
 * HTML
